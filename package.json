@@ -1,0 +1,26 @@
+{
+  "name": "@is-(unknown)/is-object",
+  "version": "1.0.0",
+  "description": "Check if value is an object.",
+  "keywords": [
+    "objects"
+  ],
+  "homepage": "https://github.com/is-unknown/is-object#readme",
+  "bugs": {
+    "url": "https://github.com/is-unknown/is-object/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/is-unknown/is-object.git"
+  },
+  "license": "Unlicense",
+  "author": "tj",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@extremejs/utils": "^1.0.0-beta.22"
+  }
+}
