@@ -1,6 +1,6 @@
 {
   "name": "@is-(unknown)/is-object",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Check if value is an object.",
   "keywords": [
     "objects"
@@ -21,6 +21,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "@extremejs/utils": "^1.0.0-beta.22"
+    "@is-(unknown)/is-null": "^1.3.2",
+    "es-logical-or-operator": "^1.0.0",
+    "es-object-atoms": "^1.1.1"
   }
 }

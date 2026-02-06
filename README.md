@@ -1,6 +1,6 @@
 # `@is-(unknown)/is-object`
 
-Check if a value is of type `object`. By the way, `null` IS an object, so this returns true for null. If you don't want that, use [is-non-null-object](https://github.com/is-unknown/is-non-null-object).
+Check if a value is of type `object`. By the way, `null` IS an object, so this returns true for null. If you don't want that, use [is-non-null-object](https://github.com/is-unknown/is-non-null-object). This oackage returns true for functions as well, and arrays.
 
 ## Usage
 ```js
